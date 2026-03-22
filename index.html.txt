@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+<!-- SEO BASIC -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<title>AJ EDIZ AGENCY | Digital Marketing Services</title>
+
+
+<meta name="description" content="AJ EDIZ AGENCY provides professional digital marketing services including social media marketing, ads, and content creation to grow your business.">
+
+
+<meta name="keywords" content="digital marketing, social media marketing, ads agency, instagram growth, aj ediz">
+
+
+<meta name="author" content="AJ EDIZ AGENCY">
+
+
+<!-- GOOGLE VERIFICATION (later fill) -->
+<meta name="google-site-verification" content="PASTE_CODE_HERE" />
+
+
+<!-- OPEN GRAPH (Social Sharing) -->
+<meta property="og:title" content="AJ EDIZ AGENCY">
+<meta property="og:description" content="We Grow Your Business Online 🚀">
+<meta property="og:image" content="logo.png">
+<meta property="og:type" content="website">
+
+
+<link rel="icon" href="logo.png">
+
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+
+
+<style>
+/* SAME DESIGN (optimized) */
+body{margin:0;font-family:Poppins;background:#0a0a0a;color:#fff}
+nav{display:flex;justify-content:space-between;padding:15px;background:#000;position:sticky;top:0}
+nav a{color:#fff;margin-left:15px;text-decoration:none}
+.hero{height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center}
+.hero h1{color:#c084fc}
+.btn{padding:10px 20px;background:#a855f7;border:none;color:#fff;margin-top:10px}
+section{padding:60px;text-align:center}
+.services{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:20px}
+.card{background:#111;padding:20px;border-radius:10px}
+footer{background:#000;padding:20px;text-align:center}
+.whatsapp{position:fixed;bottom:20px;right:20px;background:#25D366;padding:15px;border-radius:50%}
+</style>
+
+
+</head>
+
+
+<body>
+
+
+<nav>
+<img src="logo.png" height="40">
+<div>
+<a href="#">Home</a>
+<a href="#about">About</a>
+<a href="#services">Services</a>
+<a href="#contact">Contact</a>
+</div>
+</nav>
+
+
+<div class="hero">
+<h1>AJ EDIZ AGENCY</h1>
+<p>Digital Marketing Experts 🚀</p>
+<button class="btn" onclick="window.location.href='https://wa.me/917508470006'">
+Get Free Consultation
+</button>
+</div>
+
+
+<section id="about">
+<h2>About AJ EDIZ AGENCY</h2>
+<p>We provide professional digital marketing services to grow your business online through social media marketing, paid ads, and branding.</p>
+</section>
+
+
+<section id="services">
+<h2>Digital Marketing Services</h2>
+<div class="services">
+<div class="card">Social Media Marketing</div>
+<div class="card">Facebook & Instagram Ads</div>
+<div class="card">Content Creation</div>
+<div class="card">Lead Generation</div>
+</div>
+</section>
+
+
+<section id="contact">
+<h2>Contact Digital Marketing Expert</h2>
+<p>WhatsApp: +91 7508470006</p>
+<p>Instagram: @aj.ediz</p>
+</section>
+
+
+<footer>
+<p>© 2026 AJ EDIZ AGENCY | Digital Marketing</p>
+</footer>
+
+
+<a href="https://wa.me/917508470006" class="whatsapp">💬</a>
+
+
+</body>
+</html>
